@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gesthaus-ge.dokuwell.com/sitemap.xml
